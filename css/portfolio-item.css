@@ -1,0 +1,52 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+ html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 54px;
+}
+
+.ticTacToe{
+  display: none;
+}
+
+.soundclout{
+  display: none;
+}
+
+.bucketlist{
+  display: none;
+}
+
+i{
+  font-size: 50px;
+}
+
+.miami{
+  display: none;
+}
+
+.about{
+  display:none;
+}
+.img-circle {
+  border-radius: 50%;
+}
+/* ul{ 
+  list-style-type: none; 
+} */
+
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
